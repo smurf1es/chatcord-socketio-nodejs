@@ -8,5 +8,13 @@
     "dev": "nodemon server"
   },
   "author": "Pahuger Puruhita Baiq",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
